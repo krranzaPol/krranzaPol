@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=z4kar18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 <h1 align="center">👋 Hi, I'm Pol!</h1>
-<h3 align="center">Software Developer from Spain</h3>
+<h3 align="center">Software Engineer from Spain</h3>
 
 ---
 
